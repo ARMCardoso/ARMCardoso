@@ -12,23 +12,21 @@ I would like to help with scalability, DevOps (Docker/Nginx/CI-CD), using best p
 
 How to reach me: via [LinkedIn](https://www.linkedin.com/in/armcardoso/)
 
-Pronouns: he/him. (Não sei se deixaria isso)
-
 Fun fact: I enjoy challenges, so no matter how complex the problem seems, I will always try to solve it and have a blast while at it.
 
-Tech Stack (eu destacaria quais você tá aprendendo com um asterisco por exemplo)
+# Tech Stack 
 
-Languages: Go, C, SQL, HTML, CSS, JavaScript
+Languages: Go, C, SQL, HTML*, CSS*, JavaScript*
 
 Backend: Node.js, Express
 
 Databases: Relational database (MySQL and PostgreSQL)
 
-DevOps: Linux, Apache, Docker (learning)
+DevOps: Linux, Apache, Docker*
 
 Tools: Git, GitHub, VS Code
 
-## Current Focus
+# Current Focus
 
 Building reliable backend systems
 
