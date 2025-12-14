@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: ARMCardoso
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?snakeLength=7
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&snakeLength=7
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
