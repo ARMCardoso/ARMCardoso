@@ -1,4 +1,4 @@
-Hi there.
+# Hi there.
 
 I am currently an intern at Evolução do Varejo.
 
@@ -28,7 +28,7 @@ DevOps: Linux, Apache, Docker (learning)
 
 Tools: Git, GitHub, VS Code
 
-Current Focus
+## Current Focus
 
 Building reliable backend systems
 
