@@ -36,6 +36,7 @@ Improving database design and performance
 
 Deploying frontends and APIs on VPS environments
 
-![Snake animation](https://github.com/ARMCardoso/ARMCardoso/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ARMCardoso/ARMCardoso/output/github-contribution-grid-snake.svg)
+
 
 
